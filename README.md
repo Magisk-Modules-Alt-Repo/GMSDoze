@@ -1,4 +1,4 @@
-# GMS Doze (Bloquea Find My Device)
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6) - (Bloquea Find My Device)
 
 ---
 ## Vista rápida
