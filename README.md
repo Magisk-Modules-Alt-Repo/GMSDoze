@@ -1,4 +1,4 @@
-# GMS Doze (Léeme por Crazybytes, traducción al español de @Gloeyisk)
+# GMS Doze (Bloquea Find My Device)
 
 ---
 ## Vista rápida
