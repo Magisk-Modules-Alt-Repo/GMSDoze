@@ -3,6 +3,7 @@
 ---
 ## Vista rápida
 - Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería
+- Bloquea Find My Device, permite mayor ahorro de energía.
 - Soporte API 23 o posterior
 - Admite instalaciones de Magisk Live o Custom Recovery
 ---
