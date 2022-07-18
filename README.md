@@ -19,6 +19,11 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 > su
 > dumpsys deviceidle
 ```
+
+---
+#Descarga
+- https://github.com/CrazyBytesVE/GMS-Doze-BlockFindMyDevice/releases
+
 ---
 ## Créditos
 - [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
