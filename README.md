@@ -10,8 +10,8 @@
 ## Solución de problemas
 - Línea de comandos para verificar la optimización (con el complemento instalado):
 ```
-> su
-> gmsc
+> su -c gmsc
+
 ```
 - Línea de comandos para verificar la optimización (en general):
 Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `com.google.android.gms` no existe, significa que los servicios de Google Play están optimizados.

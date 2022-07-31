@@ -3,15 +3,15 @@
 # Root check
 id=`id`; id=`echo ${id#*=}`; id=`echo ${id%%\(*}`; id=`echo ${id%% *}`
 if [ "$id" != "0" ] && [ "$id" != "root" ]; then
-echo "Superuser (su) rights is needed!"
+echo "Derechos de superusuario (root) requeridos!"
 exit 1
 else
-# Command-line for check whether Google Play services is optimized or not
-# Run 'gmsc' with superuser rights
+# Línea de comandos para verificar si los servicios de Google Play están optimizados o no
+# Ejecutar 'gmsc' con derechos de superusuario
 gms=`dumpsys deviceidle whitelist | grep -o com.google.android.gms | head -n 1`	
 if [ "$gms" = "com.google.android.gms" ]; then
-echo "\033[0;31m Google Play services is Not Optimized \033[0m"
+echo "\033[0;31m Servicios de Google Play no optimizados \033[0m"
 else
-echo "\033[0;32m Google Play services is Optimized \033[0m"
+echo "\033[0;32m Servicios de Google Play optimizados \033[0m"
 fi
 fi

@@ -1,7 +1,7 @@
 #!/sbin/sh
 
-# Search and patch any conflicting modules (if present)
-# Patch conflicting XML files
+# Buscar y parchear cualquier módulo en conflicto (si está presente)
+# Parchear archivos XML en conflicto
 conflict=$(xml=$(find /data/adb -iname "*.xml");for i in $xml; do if grep -q 'allow-in-power-save package="com.google.android.gms"' $i 2>/dev/null; then echo "$i";fi; done)
 for i in $conflict
 do

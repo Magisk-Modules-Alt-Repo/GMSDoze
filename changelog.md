@@ -2,6 +2,8 @@
 
 ##Registro de cambios:
 
+-1.3A/1.3B
+	- Revertidos algunos cambios que hicieron que el módulo no funcionara correctamente.
 -1.2A/1.2B
     - Se agregó la corrección de notificaciones retrasadas
 
