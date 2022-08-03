@@ -20,3 +20,28 @@
     -Versión inicial
     - Se agregaron opciones de CypherCloud
     - Se agregaron opciones de Gloeyisk
+
+# ENGLISH VERSION 
+
+---
+
+##Changelog:
+
+- 1.3A/1.3B
+    - Reversed some changes that caused the module to not work properly.
+	
+- 1.2A/1.2B
+    - Added fix for delayed notifications
+
+- 1.1A
+    - Added /system_ext detection support.
+    - Improved patch detections (Allow to revoke location permissions)
+    - Added Chimera GMS blocking
+  
+- 1.1B
+    - Identical to 1.1A, added "Find my device" blocking
+  
+- 1.0
+    -Initial version
+    - Added CypherCloud options
+    - Gloeyisk options added
