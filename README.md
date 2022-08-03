@@ -1,9 +1,7 @@
-# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6) - Bloquea Find My Device
-
+# GMS Doze (Optimizado y mejorado, basado en GMS Universal Doze 1.8.6/1.8.5)
 ---
 ## Vista rápida
 - Parchea la aplicación de servicios de Google Play y sus procesos en segundo plano para poder utilizar la optimización de la batería
-- Bloquea Find My Device, permite mayor ahorro de energía.
 - Soporte API 23 o posterior
 - Admite instalaciones de Magisk Live o Custom Recovery
 ---
