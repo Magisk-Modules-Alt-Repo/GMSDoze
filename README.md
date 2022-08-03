@@ -31,7 +31,8 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 - CypherCloud (Por facilitar opciones avanzadas)
 
 ---
-ENGLISH VERSION
+*ENGLISH VERSION*
+---
 
 # GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5)
 
