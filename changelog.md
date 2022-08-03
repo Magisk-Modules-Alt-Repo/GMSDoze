@@ -1,6 +1,6 @@
 ---
 
-##Registro de cambios:
+## Registro de cambios:
 
 - 1.3A/1.3B
     - Revertidos algunos cambios que hicieron que el módulo no funcionara correctamente.
@@ -21,11 +21,13 @@
     - Se agregaron opciones de CypherCloud
     - Se agregaron opciones de Gloeyisk
 
-# ENGLISH VERSION 
+---
+
+*ENGLISH VERSION* 
 
 ---
 
-##Changelog:
+## Changelog:
 
 - 1.3A/1.3B
     - Reversed some changes that caused the module to not work properly.
