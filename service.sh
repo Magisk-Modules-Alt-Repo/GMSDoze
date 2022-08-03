@@ -10,7 +10,6 @@ do
 pm disable com.google.android.gms/com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
 pm disable com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver
 pm disable com.google.android.gms/.chimera.GmsIntentOperationService
-pm disable com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver
 
 # Disable GMS / IMS / Others run in startup and restart it on boot
 cmd appops set com.google.android.gms BOOT_COMPLETED ignore
