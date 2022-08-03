@@ -19,7 +19,7 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 ```
 
 ---
-#Descarga
+## Descarga
 - https://github.com/CrazyBytesVE/GMS-Doze/releases
 - https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/releases
 
@@ -30,7 +30,8 @@ Hay una línea escrita `Whitelist (except idle) system apps:` y si la línea `co
 - [@Gloeyisk] (https://github.com/gloeyisk/universal-gms-doze) / (GMS Universal Doze).
 - CypherCloud (Por facilitar opciones avanzadas)
 
-***ENGLISH VERSION
+---
+ENGLISH VERSION
 
 # GMS Doze (Optimized and improved, based on GMS Universal Doze 1.8.6/1.8.5)
 
@@ -55,7 +56,7 @@ There is a line written `Whitelist (except idle) system apps:` and if the line `
 ```
 
 ---
-#Download
+## Download
 - https://github.com/CrazyBytesVE/GMS-Doze/releases
 - https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/releases
 
