@@ -2,6 +2,9 @@
 
 ## Registro de cambios:
 
+- 1.4A/1.4B
+    - Corregido error en update.json
+
 - 1.3A/1.3B
     - Revertidos algunos cambios que hicieron que el módulo no funcionara correctamente.
 
@@ -29,6 +32,9 @@
 
 ## Changelog:
 
+- 1.4A/1.4B
+    - Fixed bug in update.json
+    
 - 1.3A/1.3B
     - Reversed some changes that caused the module to not work properly.
 	
